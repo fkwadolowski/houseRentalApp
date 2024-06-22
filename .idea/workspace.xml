@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcc4bc07-5090-4f2a-94bf-32daa197c4a8" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/houseRentalApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/houseRentalApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fcc4bc07-5090-4f2a-94bf-32daa197c4a8" name="Changes" comment="fetching data complited">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719009520831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fetching data complited">
+      <option name="closed" value="true" />
+      <created>1719014571773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719014571773</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="fetching data complited" />
+    <option name="LAST_COMMIT_MESSAGE" value="fetching data complited" />
   </component>
 </project>
